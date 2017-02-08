@@ -19,7 +19,7 @@ state
 * component should share dat a through props
 
 * keep in concept the main container and presentational component
-
+.
 *  handleChange(e) {
   this.setState({value: e.target.value})
     this.state.name = e.target.value // if you dont want to set the state automatically just set it equal to it but don't invoke setState
